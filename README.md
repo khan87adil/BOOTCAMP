@@ -1,2 +1,1 @@
-# BOOTCAMP:
-deploy ML model on heruku
+# Heroku-Demo
